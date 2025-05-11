@@ -7,7 +7,7 @@ quorum: 1
 
 project:
   name: reod
-  type: application
+  type: npm
   description: Proyek reod milik deni1205
   repository: https://github.com/deni1205/reod
   maintainers:
