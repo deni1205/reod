@@ -1,14 +1,15 @@
 # https://tea.xyz/what-is-this-file
 ---
 version: 1.0.0
+version: 1.0.0
 codeOwners:
-  - '0x320017A367aEe923D305609C529F160432204f'
+  - '0x320017A367aE923D305609C529F160432204'
 quorum: 1
 
 project:
   name: reod
-  type: npm
-  description: Proyek reod milik deni1205
+  type: application
+  description: Proyek open source reod oleh deni1205
   repository: https://github.com/deni1205/reod
   maintainers:
     - github: deni1205
