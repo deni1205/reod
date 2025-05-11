@@ -2,6 +2,13 @@
 ---
 version: 1.0.0
 codeOwners:
-  - '0x320017A367aEe923D0350690C529aF160432204f'
+  - '0x320017A367aEe923D305609C529F160432204f'
 quorum: 1
 
+project:
+  name: reod
+  type: application
+  description: Proyek reod milik deni1205
+  repository: https://github.com/deni1205/reod
+  maintainers:
+    - github: deni1205
